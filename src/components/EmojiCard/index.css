@@ -1,0 +1,12 @@
+/* Write your code here. */
+.emojiHolder {
+  background-color: #ffffff33;
+  border: 5px solid #ffffff33;
+  border-radius: 10px;
+  width: 20vw;
+  height: 15vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}

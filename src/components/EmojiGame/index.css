@@ -1,0 +1,14 @@
+/* Write your code here. */
+li {
+  list-style-type: none;
+}
+.emojiContainer {
+  display: flex;
+  max-width: 100vw;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  background-color: #fbc7d4;
+}
+body {
+  box-sizing: border-box;
+}
